@@ -29,3 +29,17 @@
   flex-wrap: wrap;
   gap: 16px;
 }
+.add-movie-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.add-movie-button:hover {
+  background-color: #218838;
+}
+
